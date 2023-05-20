@@ -1,0 +1,10 @@
+0 call me
+1 first
+2 live long
+3 okay
+4 peace
+5 rock
+6 smile
+7 stop
+8 thumbs down
+9 thumbs up
